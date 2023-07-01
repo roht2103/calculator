@@ -20,7 +20,7 @@ This is a simple calculator app built using JavaScript and HTML. It allows users
 To run the calculator app locally on your machine, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/roht2103/calculator.git`
-2. Navigate to the project directory: `cd calculator-app`
+2. Navigate to the project directory: `cd calculator`
 3. Open the `index.html` file in your web browser.
 
 ## Usage
